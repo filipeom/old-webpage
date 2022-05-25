@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2024-10-08
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our paper <i><a href="https://doi.org/10.22152/programming-journal.org/2025/9/3">Owi: Performant Parallel Symbolic Execution Made Easy, an Application to WebAssembly</a></i> was accepted at <a href="https://programming-journal.org/">The Programming Journal</a>!

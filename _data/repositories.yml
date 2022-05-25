@@ -1,12 +1,15 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - filipeom
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - OCamlPro/owi
+  - formalsec/smtml
+  - formalsec/graphjs
+  - formalsec/explode-js
+  - formalsec/ocaml-cvc5
+  - facebook/flow
+  - ocaml-opam/opam-publish
+  - ygrek/extunix
+  - sneeuwballen/benchpress
+  - mirage/ocaml-conduit
+  - ocaml/opam-repository
